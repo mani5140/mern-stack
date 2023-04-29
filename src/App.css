@@ -1,0 +1,10 @@
+.App{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 130vh;
+    background: linear-gradient(135deg,#9bcff1,#8237a0);
+}
+/* .demo p{
+    font-size: 40xp;
+} */

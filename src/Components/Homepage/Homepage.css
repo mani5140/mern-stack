@@ -1,0 +1,32 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+    
+}
+.home-left{
+    width: 15%;
+    background: black;
+    color: white;
+    padding-left: 3%;
+    border-radius: 20px;
+    
+}
+.home-left>h2{
+    font-weight: 600;
+    font-size: 34px;
+}
+.home-left>h4{
+    font-weight: 400;
+    font-size: 20px;
+}
+.home-right{
+    width: 75%;
+}
+.menu-bottom{
+    margin-top: 90%;
+}
+.menu-bottom>h6{
+    font-weight: 400;
+    font-size: 12px;
+}

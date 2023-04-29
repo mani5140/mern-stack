@@ -1,0 +1,48 @@
+.product-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3%;
+}
+.product {
+  /* background-color: antiquewhite; */
+  width: 75%;
+}
+.product>input{
+  padding: 0.9%;
+  width: 35%;
+  margin-bottom: 2%;
+  border-radius: 10px;
+  border: none;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead {
+  font-size: 20px;
+  font-weight: 500;
+}
+td {
+  padding-top: 1%;
+  text-align: left;
+  font-size: 18px;
+  border-bottom: 1px solid #170303;
+}
+tr:hover {
+  background-color: rgb(167, 233, 238);
+
+}
+
+.product-oper {
+  padding: 2% 10%;
+  margin-right: 5%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.product-oper:hover{
+  background: #20040c;
+  color: white;
+}
